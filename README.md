@@ -1,6 +1,11 @@
 # 💫 About Me:
-🚀 Passionate Software Engineer focused on building scalable backend systems, AI-powered solutions, and modern web applications.<br><br>🔭 I’m currently working on:<br><br>Automated Exam Grading System (AI + NLP)<br>Project & Financial Management Systems<br>Backend APIs with Spring Boot, Django, and Laravel<br><br>🤝 I’m looking to collaborate on:<br><br>Open-source backend projects<br>AI/ML applications<br>Scalable enterprise systems<br><br>🧠 I’m currently learning:<br><br>Microservices Architecture<br>DevOps & CI/CD<br>Advanced System Design<br>Cloud Infrastructure<br><br>💬 Ask me about:<br><br>Python, Java, PHP<br>REST APIs<br>PostgreSQL & MongoDB<br>Machine Learning<br>Docker & Backend Engineering<br><br>⚡ Fun fact:<br>I enjoy debugging complex problems and optimizing systems for performance and scalability.<br><br>🛠️ Tech Stack<br>Languages: Python, Java, PHP, JavaScript, C, Kotlin<br>Backend: Spring Boot, Django, Laravel, Node.js<br>Frontend: React, HTML, CSS<br>Database: PostgreSQL, MySQL, MongoDB<br>DevOps: Docker, Git, CI/CD<br>AI/ML: NLP, Classification, Regression, Clustering
+🚀 Software Engineer passionate about building scalable backend systems, AI-powered solutions, and modern web applications. I enjoy solving real-world problems through clean, efficient, and maintainable code.
 
+🔭 Currently working on backend APIs, project management systems, and an AI-powered Automated Exam Grading System.
+🌱 Currently learning Microservices Architecture, DevOps, and advanced system design.
+💬 Ask me about Python, Java, Spring Boot, Django, REST APIs, PostgreSQL, MongoDB, and Docker.
+🤝 Open to collaborating on backend engineering, AI/ML, and open-source projects.
+⚡ Fun fact: I enjoy debugging and optimizing systems for performance and scalability.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jamyozdamz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ddamulira-owen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UTDJamy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DdamuliraOwenJames) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ddamuliraowenjames@gmail.com) 
